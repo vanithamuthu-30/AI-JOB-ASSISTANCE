@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Assistant",
+  "description": "A comprehensive AI-powered career assistant that finds real jobs, provides role analysis, and generates a curated learning roadmap with YouTube resources.",
+  "requestFramePermissions": []
+}
