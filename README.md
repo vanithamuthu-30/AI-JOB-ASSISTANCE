@@ -1,3 +1,9 @@
+
+<img width="1915" height="881" alt="image" src="https://github.com/user-attachments/assets/f4373481-e901-4435-9168-6b5133e23818" />
+<img width="1908" height="872" alt="image (3)" src="https://github.com/user-attachments/assets/8a84c3fc-b312-4f5a-a9d5-1dca9c18d486" />
+<img width="1909" height="867" alt="image (2)" src="https://github.com/user-attachments/assets/81767f59-993b-4d6f-9678-f99c204fa6aa" />
+<img width="1899" height="887" alt="image (1)" src="https://github.com/user-attachments/assets/c8ac1e3b-a2ec-46f1-9d44-1d9411c6a52d" />
+
 # AI Job Assistance
 
 <div align="center">
